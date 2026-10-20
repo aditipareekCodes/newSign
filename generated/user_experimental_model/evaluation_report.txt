@@ -1,0 +1,647 @@
+========================================================================
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  IMPORTANT LIMITATIONS
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+  1. ALL SAMPLES COME FROM ONE SIGNER. Accuracy = how well the
+     model memorises one person's style, not ISL generalisation.
+  2. 10 samples per class is far too few for reliable statistics.
+  3. This model is NOT integrated into the application.
+  4. Do not report these metrics as ISL recognition performance.
+=
+
+Generated   : 2026-10-20T10:06:24.808015+00:00
+Dataset     : C:\Users\Aditi Pareek\Downloads\signn\signVaani-main new zip\signVaani-main\signVaani-main\generated\user_dataset\signvaani-isl-performances.json
+Output dir  : C:\Users\Aditi Pareek\Downloads\signn\signVaani-main new zip\signVaani-main\signVaani-main\generated\user_experimental_model
+
+── Dataset summary ────────────────────────────────────────────
+  Total accepted samples : 100
+  Classes (10)           : FAMILY, FOOD, HELLO, HELP, I, NEED, PLEASE, THANK, WATER, YOU
+  Samples per class      : [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  Unique signers         : 1 -- {'solo-user-01'}
+  Unique sessions        : 1
+  Preprocessing schema   : mediapipe_hand_21_xyz_wrist_scale_v1
+  Feature dimensions     : 63
+  Records with sequence  : 100 / 100
+  Sequence length range  : 8-119 frames
+
+  WARNING: SINGLE-SIGNER DATASET -- all samples are from one person.
+  CV accuracy reflects self-consistency, NOT cross-user generalisation.
+
+── Cross-validation results ───────────────────────────────────────────
+  Folds           : 5-fold stratified
+  CV accuracy     : 79.0% +/- 7.3%
+  CV F1-macro     : 78.7% +/- 8.2%
+  CV F1-weighted  : 78.7% +/- 8.2%
+
+── Baseline (most-frequent) ───────────────────────────────────────────
+  CV accuracy     : 10.0% +/- 0.0%
+
+── In-sample report (whole dataset -- do NOT treat as test accuracy) ───
+
+              precision    recall  f1-score   support
+
+      FAMILY      1.000     1.000     1.000        10
+        FOOD      1.000     1.000     1.000        10
+       HELLO      1.000     1.000     1.000        10
+        HELP      1.000     1.000     1.000        10
+           I      0.909     1.000     0.952        10
+        NEED      0.900     0.900     0.900        10
+      PLEASE      1.000     1.000     1.000        10
+       THANK      1.000     1.000     1.000        10
+       WATER      1.000     1.000     1.000        10
+         YOU      1.000     0.900     0.947        10
+
+    accuracy                          0.980       100
+   macro avg      0.981     0.980     0.980       100
+weighted avg      0.981     0.980     0.980       100
+
+
+Confusion matrix (rows=true, cols=predicted):
+             FAMILY      FOOD     HELLO      HELP         I      NEED    PLEASE     THANK     WATER       YOU
+     FAMILY      10         0         0         0         0         0         0         0         0         0
+       FOOD       0        10         0         0         0         0         0         0         0         0
+      HELLO       0         0        10         0         0         0         0         0         0         0
+       HELP       0         0         0        10         0         0         0         0         0         0
+          I       0         0         0         0        10         0         0         0         0         0
+       NEED       0         0         0         0         1         9         0         0         0         0
+     PLEASE       0         0         0         0         0         0        10         0         0         0
+      THANK       0         0         0         0         0         0         0        10         0         0
+      WATER       0         0         0         0         0         0         0         0        10         0
+        YOU       0         0         0         0         0         1         0         0         0         9
+
+── Model details ──────────────────────────────────────────────────────
+  Pipeline   : StandardScaler -> SVC(kernel=rbf, C=10, gamma=scale, balanced)
+  Classes    : ['FAMILY', 'FOOD', 'HELLO', 'HELP', 'I', 'NEED', 'PLEASE', 'THANK', 'WATER', 'YOU']
+  Input      : 63 floats (wrist-centred, palm-scaled xyz x 21 landmarks)
+  Schema     : mediapipe_hand_21_xyz_wrist_scale_v1
+
+── Retrain command ────────────────────────────────────────────────────
+  python scripts/train_user_experimental.py
+     --dataset generated/user_dataset/signvaani-isl-performances.json

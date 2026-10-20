@@ -1,0 +1,97 @@
+{
+  "model_type": "RandomForestClassifier",
+  "training_script": "scripts/train_include10.py",
+  "input_dimensions": 63,
+  "preprocessing_schema": "mediapipe_hand_21_xyz_wrist_scale_v1",
+  "is_handedness_invariant": true,
+  "training_mode": "pilot_real_4class",
+  "data_source": "generated/isl_pilot/landmarks",
+  "dataset_origin": "ISL_CSLRT_Corpus (via archive.zip pilot extraction)",
+  "classes": [
+    "FOOD",
+    "HELP",
+    "WATER",
+    "YOU"
+  ],
+  "n_total_samples": 52,
+  "n_train_samples": 39,
+  "n_test_samples": 13,
+  "class_counts_total": {
+    "FOOD": 15,
+    "HELP": 10,
+    "WATER": 12,
+    "YOU": 15
+  },
+  "class_counts_train": {
+    "FOOD": 11,
+    "HELP": 8,
+    "WATER": 9,
+    "YOU": 11
+  },
+  "class_counts_test": {
+    "FOOD": 4,
+    "HELP": 2,
+    "WATER": 3,
+    "YOU": 4
+  },
+  "test_accuracy_pct": 69.23,
+  "classification_report": {
+    "FOOD": {
+      "precision": 0.75,
+      "recall": 0.75,
+      "f1-score": 0.75,
+      "support": 4.0
+    },
+    "HELP": {
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1-score": 0.5,
+      "support": 2.0
+    },
+    "WATER": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.8,
+      "support": 3.0
+    },
+    "YOU": {
+      "precision": 0.6,
+      "recall": 0.75,
+      "f1-score": 0.6666666666666666,
+      "support": 4.0
+    },
+    "accuracy": 0.6923076923076923,
+    "macro avg": {
+      "precision": 0.7125,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.6791666666666666,
+      "support": 13.0
+    },
+    "weighted avg": {
+      "precision": 0.7230769230769231,
+      "recall": 0.6923076923076923,
+      "f1-score": 0.6974358974358974,
+      "support": 13.0
+    }
+  },
+  "split_strategy": "stratified_shuffle_split_25pct_test",
+  "random_state": 42,
+  "signer_independent_evaluation": false,
+  "real_world_accuracy_established": false,
+  "evaluation_status": "within_signer_stratified_split",
+  "accuracy_scope": "Within-signer stratified split only. ISL_CSLRT_Corpus provides no signer metadata. Accuracy is an optimistic upper bound.",
+  "provenance_disclaimer": "Extracted from ISL_CSLRT_Corpus still frames. License terms must be confirmed with dataset owners before redistribution or publication.",
+  "protected_paths_not_modified": [
+    "C:\\Users\\Aditi Pareek\\Downloads\\signn\\signVaani-main new zip\\signVaani-main\\signVaani-main\\backend\\models\\isl_classifier.joblib",
+    "C:\\Users\\Aditi Pareek\\Downloads\\signn\\signVaani-main new zip\\signVaani-main\\signVaani-main\\backend\\models\\isl_classifier.joblib.bak"
+  ],
+  "trained_at": "2026-10-19T19:02:12.270176+00:00",
+  "skipped_files_count": 0,
+  "limitations": [
+    "52 total samples across 4 classes - statistically very small.",
+    "~13 test samples total - each sample shifts accuracy ~8 percentage points.",
+    "Within-signer split; generalization to unseen signers is unknown.",
+    "Static frame classifier, not a temporal sequence model.",
+    "Dataset license (ISL_CSLRT_Corpus) not explicitly verified."
+  ]
+}

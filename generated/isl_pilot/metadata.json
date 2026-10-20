@@ -1,0 +1,699 @@
+{
+  "archive_path": "C:\\Users\\Aditi Pareek\\Downloads\\signVaani-main new zip\\datasets\\archive.zip",
+  "dataset_type": "ISL word-level frame subset",
+  "selected_classes": [
+    "YOU",
+    "HELP",
+    "WATER",
+    "FOOD"
+  ],
+  "verification": {
+    "exact_matches": {
+      "WATER": [
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (1).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (10).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (11).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (12).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (13).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (14).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (15).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (16).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (17).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (18).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (19).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (20).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (21).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (22).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (23).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (24).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (25).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (26).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (27).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (9).jpg"
+      ],
+      "HELP": [
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (1).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (10).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (11).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (12).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (9).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP-1.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP-2.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP-3.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP-4.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP-5.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP-6.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP-7.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/NOT (1).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/NOT (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/NOT (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/NOT (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/NOT (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/NOT (6).jpg"
+      ],
+      "THANK": [
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK-1.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK-2.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK-3.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK-4.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK-5.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK-6.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK-7.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/THANK/THANK.jpg"
+      ],
+      "YOU": [
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (1).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (10).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (11).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (12).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (13).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (14).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (15).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (16).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (17).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (18).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (19).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (20).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (21).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (22).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (23).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (24).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (25).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (26).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (27).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (28).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (29).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (30).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (31).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (32).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (33).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (34).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (35).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (36).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (37).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (38).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (39).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (40).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (41).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (42).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (43).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (44).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (45).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (46).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (47).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (48).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (9).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-1 (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-1 (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-1 (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-1 (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-1 (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-1 (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-1 (9).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-1.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-2 (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-2 (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-2 (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-2.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-3 (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-3 (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-3 (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-3 (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-3 (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-3 (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-3 (9).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-3.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-4 (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-4 (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-4 (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-4 (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-4 (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-4 (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-4 (9).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-4.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-5 (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-5 (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-5 (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-5 (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-5 (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-5 (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-5 (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-5.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-6 (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-6 (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-6 (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-6 (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-6 (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-6 (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-6 (9).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-6.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-7 (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-7 (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-7 (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-7 (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-7 (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU-7.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOUR (1).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOUR (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOUR (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOUR-1.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOUR.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/you-1 (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/you-3 (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/you-4 (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/you-55.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/you-6 (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/you-7 (2).jpg"
+      ],
+      "PLEASE": [
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/PLEASE/PLEASE-1.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/PLEASE/PLEASE.jpg"
+      ],
+      "FOOD": [
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (1).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (10).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (11).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (12).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (13).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (2).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (3).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (4).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (5).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (6).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (7).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (8).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (9).jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-1.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-2.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-3.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-4.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-5.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-6.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-7.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/food 08.jpg",
+        "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/food 18.jpg"
+      ]
+    },
+    "missing_targets": [
+      "I",
+      "NEED",
+      "FAMILY",
+      "HOME",
+      "MEDICAL",
+      "PAIN"
+    ],
+    "candidate_aliases": [
+      {
+        "source_label": "I_ME_MINE_MY",
+        "canonical_target": "I",
+        "requires_semantic_verification": true,
+        "notes": "Combined label likely includes I / ME / MINE / MY variants; do not silently map without sign-level verification.",
+        "sample_paths": [
+          "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/I_ME_MINE_MY/I (1).jpg",
+          "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/I_ME_MINE_MY/I (10).jpg",
+          "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/I_ME_MINE_MY/I (11).jpg",
+          "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/I_ME_MINE_MY/I (12).jpg",
+          "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/I_ME_MINE_MY/I (13).jpg"
+        ]
+      }
+    ],
+    "target_vocabulary": [
+      "I",
+      "NEED",
+      "WATER",
+      "HELP",
+      "FAMILY",
+      "THANK",
+      "YOU",
+      "HOME",
+      "MEDICAL",
+      "PLEASE",
+      "FOOD",
+      "PAIN"
+    ]
+  },
+  "license_note": {
+    "explicit_license_file_found": false,
+    "source_summary": "The archive metadata text says the dataset is publicly available, but no explicit LICENSE file or legal usage grant was found during local inspection.",
+    "requirement_before_training_or_redistribution": "Verify source rights and attribution terms with the dataset owner before training, publishing, or redistributing any derived data."
+  },
+  "sample_counts": {
+    "YOU": 15,
+    "HELP": 10,
+    "WATER": 12,
+    "FOOD": 15
+  },
+  "accepted_samples": 52,
+  "rejected_samples": 28,
+  "rejected_reasons": {
+    "multiple_hands": 22,
+    "no_hand": 6
+  },
+  "train_validation_plan": {
+    "train": [
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (1).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD (1).npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (10).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD (10).npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (11).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD (11).npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (12).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD (12).npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (13).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD (13).npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (3).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD (3).npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (5).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD (5).npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD (7).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD (7).npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-1.jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD-1.npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-2.jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD-2.npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-3.jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD-3.npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-4.jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD-4.npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-5.jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD-5.npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-6.jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD-6.npy"
+      },
+      {
+        "label": "FOOD",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/FOOD/FOOD-7.jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\FOOD\\FOOD-7.npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (10).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (10).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (11).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (11).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (12).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (12).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (2).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (2).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (4).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (4).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (5).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (5).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (7).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (7).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (8).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (8).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP (9).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP (9).npy"
+      },
+      {
+        "label": "HELP",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/HELP/HELP-3.jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\HELP\\HELP-3.npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (10).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (10).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (11).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (11).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (12).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (12).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (13).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (13).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (17).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (17).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (18).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (18).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (19).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (19).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (20).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (20).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (21).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (21).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (23).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (23).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (24).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (24).npy"
+      },
+      {
+        "label": "WATER",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/WATER/WATER (25).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\WATER\\WATER (25).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (1).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (1).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (10).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (10).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (11).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (11).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (12).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (12).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (14).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (14).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (15).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (15).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (16).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (16).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (18).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (18).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (2).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (2).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (20).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (20).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (21).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (21).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (23).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (23).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (24).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (24).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (25).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (25).npy"
+      },
+      {
+        "label": "YOU",
+        "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (26).jpg",
+        "status": "accepted",
+        "error": null,
+        "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (26).npy"
+      }
+    ],
+    "validation": []
+  },
+  "preview_valid": [
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (1).jpg",
+      "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (1).npy"
+    },
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (10).jpg",
+      "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (10).npy"
+    },
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (11).jpg",
+      "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (11).npy"
+    },
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (12).jpg",
+      "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (12).npy"
+    },
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (14).jpg",
+      "feature_path": "generated\\isl_pilot\\landmarks\\YOU\\YOU (14).npy"
+    }
+  ],
+  "preview_rejected": [
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (13).jpg",
+      "error": "multiple_hands"
+    },
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (17).jpg",
+      "error": "multiple_hands"
+    },
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (19).jpg",
+      "error": "multiple_hands"
+    },
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (22).jpg",
+      "error": "multiple_hands"
+    },
+    {
+      "label": "YOU",
+      "source_path": "ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/YOU/YOU (27).jpg",
+      "error": "multiple_hands"
+    }
+  ]
+}

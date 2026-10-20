@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-10-20T10:06:24.794342+00:00",
+  "script": "scripts/train_user_experimental.py",
+  "dataset": "C:\\Users\\Aditi Pareek\\Downloads\\signn\\signVaani-main new zip\\signVaani-main\\signVaani-main\\generated\\user_dataset\\signvaani-isl-performances.json",
+  "model_type": "Pipeline(StandardScaler, SVC(rbf))",
+  "preprocessing_schema": "mediapipe_hand_21_xyz_wrist_scale_v1",
+  "feature_dimensions": 63,
+  "feature_description": "63 floats: wrist-centred, palm-length-scaled xyz for 21 MediaPipe hand landmarks. Order: [x0,y0,z0, x1,y1,z1, ..., x20,y20,z20]. Landmark 0 = wrist (always 0,0,0 after centering).",
+  "classes": [
+    "FAMILY",
+    "FOOD",
+    "HELLO",
+    "HELP",
+    "I",
+    "NEED",
+    "PLEASE",
+    "THANK",
+    "WATER",
+    "YOU"
+  ],
+  "n_classes": 10,
+  "n_samples": 100,
+  "n_samples_per_class": {
+    "FAMILY": 10,
+    "FOOD": 10,
+    "HELLO": 10,
+    "HELP": 10,
+    "I": 10,
+    "NEED": 10,
+    "PLEASE": 10,
+    "THANK": 10,
+    "WATER": 10,
+    "YOU": 10
+  },
+  "cv_folds": 5,
+  "cv_accuracy_pct": 79.0,
+  "cv_accuracy_std_pct": 7.35,
+  "cv_f1_macro_pct": 78.67,
+  "cv_f1_macro_std_pct": 8.15,
+  "baseline_cv_accuracy_pct": 10.0,
+  "svm_hyperparameters": {
+    "C": 10.0,
+    "kernel": "rbf",
+    "gamma": "scale",
+    "class_weight": "balanced"
+  },
+  "IMPORTANT_LIMITATIONS": [
+    "All samples come from ONE signer -- not a cross-user evaluation.",
+    "10 samples per class is far below what is needed for reliable stats.",
+    "CV accuracy measures memorisation of one signer's style.",
+    "This model is NOT integrated into the SignVaani application.",
+    "Do not use these metrics to claim reliable ISL recognition accuracy."
+  ],
+  "production_model_untouched": true,
+  "production_model_path": "backend/models/isl_classifier.joblib"
+}
